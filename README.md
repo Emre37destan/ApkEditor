@@ -1,8 +1,11 @@
 # 🚀 APK Translator Pro v1.0
 
-<img alt="GitHub release (latest by Emre Bey and asset including pre-releases)" src="https://img.shields.io/github/downloads-pre/Emre37destan/ApkEditor/1.0.0/APK_Translator_Pro.exe?style=for-the-badge">
+**"Bu proje; imkansızlıklar içinde imkan yaratanların, paradan daha değerli bağlara inananların ve asla pes etmeyenlerin anısına, gerçek bir dostlukla inşa edilmiştir."**
 
 **APK Translator Pro**, Android uygulamalarını (APK) saniyeler içinde parçalayan, akıllı algoritmasıyla eksik dilleri (TR, ES, RU, KO) otomatik olarak çeviren ve tekrar derleyip imzalayan profesyonel bir araçtır.
+
+<img alt="GitHub release (latest by Emre Bey and asset including pre-releases)" src="https://img.shields.io/github/downloads-pre/Emre37destan/ApkEditor/1.0.0/APK_Translator_Pro.exe?style=for-the-badge">
+<img alt="GitHub release (latest by Emre Bey and asset including pre-releases)" src="https://img.shields.io/github/downloads-pre/Emre37destan/ApkEditor/1.1.0/APK_Translator_Pro.exe?style=for-the-badge">
 
 ## ✨ Özellikler
 
