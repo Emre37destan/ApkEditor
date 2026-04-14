@@ -33,4 +33,4 @@
 
 ---
 💻 **Emre Destan** tarafından geliştirilmiştir.  
-[GitHub Profilim](https://github.com)
+[GitHub Profilim](https://github.com/Emre37destan)
